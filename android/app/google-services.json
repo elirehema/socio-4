@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "351989371392",
+    "project_id": "azan-ef559",
+    "storage_bucket": "azan-ef559.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351989371392:android:2a405b0e0a74f73d51bee5",
+        "android_client_info": {
+          "package_name": "com.azan.socio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351989371392-hg1ufdhoirjte4phpmg2hdqm8g8gkrnf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.azan.socio",
+            "certificate_hash": "31f7886df5f2659bbad49540ecaf311054806f7a"
+          }
+        },
+        {
+          "client_id": "351989371392-801stsq1n05pppoi665hnm43opchagfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHefCw8bzdHLplZ1GXA3O_u12vddy1j5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351989371392-801stsq1n05pppoi665hnm43opchagfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

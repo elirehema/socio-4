@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name"> Azan Socio </string>
+    <string name="facebook_app_id">587545672867457</string>
+    <string name="fb_login_protocol_scheme">fb587545672867457</string>
+    <string name="facebook_client_token">360da3f0ae5ae7b7cbd4125b7560655e</string>
+</resources>
